@@ -12,5 +12,5 @@ endpoints:
     networkVisibilities:
         - Project
         - Public
-      schemaFilePath: .
+    schemaFilePath: .
     context: /
